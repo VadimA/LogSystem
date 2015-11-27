@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE logging SYSTEM "logsys.dtd">
+<logging>
+	<output type = "console"/>
+	<logger>
+		<level value = "info"/>
+		<message value = "It's INFO level"/>
+	</logger>
+</logging>
